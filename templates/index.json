@@ -510,9 +510,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Überraschend effizient!",
+            "title": "Überraschend effizient!1",
+            "content": "<p>Entfernt ein Fitting in Sekunden mit sauberem Finish. Spart mir bei jeder Arbeit viel Zeit.</p>"
           }
         },
         "testimonial_yTGAjR": {
@@ -522,8 +522,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Sehr robustes Werkzeug.",
+            "content": "<p>Die Klingen schneiden perfekt und nutzen sich kaum ab. Viel besser als ein Heißluftgebläse zu benutzen.</p>"
           }
         },
         "testimonial_yaXDxM": {
@@ -533,15 +533,39 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Funktioniert mit allen meinen Bohrmaschinen",
+            "content": "<p>Ich benutze es jeden Tag. Super einfach und schnell. Ein Muss für jeden Klempner.</p>"
+          }
+        },
+        "testimonial_ERezeD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Keine verbrannten Fittings mehr!",
+            "content": "<p>Der Schnitt ist sauber und glatt, ohne Hitze oder Geruch. Viel sauberer als die alten Methoden.</p>"
+          }
+        },
+        "testimonial_PLeWWt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Große Durchmesser leicht handhabbar.",
+            "content": "<p>Getestet bei 100 mm – hat perfekt funktioniert. Sehr zu empfehlen!</p>"
           }
         }
       },
       "block_order": [
         "testimonial_pB6PW9",
         "testimonial_yTGAjR",
-        "testimonial_yaXDxM"
+        "testimonial_yaXDxM",
+        "testimonial_ERezeD",
+        "testimonial_PLeWWt"
       ],
       "name": "Testimonials",
       "settings": {

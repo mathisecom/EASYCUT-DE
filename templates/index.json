@@ -51,6 +51,32 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_nXgQ3F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M7iyzV": {
+          "type": "heading",
+          "settings": {
+            "text": "Warum EasyCut PRO wählen?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_M7iyzV"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_LaMdVr": {
       "type": "slideshow",
       "blocks": {
@@ -89,6 +115,53 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "rich_text_JAb88Q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Y3mFUW": {
+          "type": "subheading",
+          "settings": {
+            "text": "VORHER/NACHHER"
+          }
+        },
+        "heading_gaHgiF": {
+          "type": "heading",
+          "settings": {
+            "text": "Sehen Sie den Unterschied!",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Y3mFUW",
+        "heading_gaHgiF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_mXf7Ud": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "multi_column_Bk7kUh": {
@@ -296,7 +369,10 @@
   },
   "order": [
     "slideshow",
+    "rich_text_nXgQ3F",
     "slideshow_LaMdVr",
+    "rich_text_JAb88Q",
+    "video_mXf7Ud",
     "multi_column_Bk7kUh",
     "featured-product",
     "faq"

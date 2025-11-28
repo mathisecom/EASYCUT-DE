@@ -18,8 +18,8 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "mobile_icon_width": 36,
+            "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -31,8 +31,8 @@
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "mobile_icon_width": 36,
+            "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -44,8 +44,8 @@
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "mobile_icon_width": 36,
+            "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Kontaktieren Sie uns",
-            "content": "<p>E-Mail: <a>hello@easycutpro.com</a></p><p>Öffnungszeiten: Montag bis Freitag von 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr / Samstag und Sonntag von 10:00 bis 12:00 Uhr</p>",
+            "content": "<p>E-Mail: hello@easycutpro.com</p><p>Öffnungszeiten: Montag bis Freitag von 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr / Samstag und Sonntag von 10:00 bis 12:00 Uhr</p>",
             "enable_follow_on_shop": true
           }
         }

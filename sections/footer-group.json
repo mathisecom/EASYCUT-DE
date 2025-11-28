@@ -97,7 +97,7 @@
           "settings": {
             "title": "Kontaktieren Sie uns",
             "content": "<p>E-Mail: hello@easycutpro.com</p><p>Öffnungszeiten: Montag bis Freitag von 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr / Samstag und Sonntag von 10:00 bis 12:00 Uhr</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },

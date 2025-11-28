@@ -707,6 +707,41 @@
             "title": "Welche Vorteile hat es im Vergleich zu einem Heißluftgebläse?",
             "content": "<ul><li>Schneller</li></ul><p></p><ul><li>Sicherer (keine Verbrennungsgefahr oder Beschädigung des PVC)<br/></li><li>Sauberer (gleichmäßiges und kontrolliertes Ergebnis)<br/></li><li>Kein Bedarf an Verlängerungskabeln oder Hitze</li></ul>"
           }
+        },
+        "item_8CWpX4": {
+          "type": "item",
+          "settings": {
+            "title": "Ist das Produkt zertifiziert?",
+            "content": "<p>Ja, es ist RoHS-konform, SGS-geprüft, CE-zertifiziert und aus ISO/GB-T-zertifizierten Materialien gefertigt.</p>"
+          }
+        },
+        "item_BBa8Jr": {
+          "type": "item",
+          "settings": {
+            "title": "Ist der Entgrater gefährlich?",
+            "content": "<p>Nein. Der EASYCUT PRO verfügt über einen inneren Einsatz, der sich an den Innendurchmesser des Rohrs anpasst.<br/><br/>Dieser Einsatz sitzt fest im PVC und verhindert Verrutschen oder Fehlpositionierung.<br/><br/>Das Werkzeug bleibt selbst bei hoher Drehzahl stabil und sicher.</p>"
+          }
+        },
+        "item_9pafmX": {
+          "type": "item",
+          "settings": {
+            "title": "Können Späne im Rohr zurückbleiben?",
+            "content": "<p>Nein.</p><p>Der zentrale Stift führt die Späne automatisch nach außen.<br/><br/>Der Entgratvorgang erfolgt sauber, ohne Rückstände oder Blockierungen im Rohr.</p>"
+          }
+        },
+        "item_DyLFmr": {
+          "type": "item",
+          "settings": {
+            "title": "Kann er in schwer zugänglichen Bereichen verwendet werden?",
+            "content": "<p>Ja. Der Entgrater wird mit einem Winkeladapter geliefert, sodass Sie problemlos in Ecken, unter Spülen oder hinter Möbeln arbeiten können – ohne die Installation zu demontieren.</p>"
+          }
+        },
+        "item_PB7MNr": {
+          "type": "item",
+          "settings": {
+            "title": "Funktioniert das Werkzeug auch bei großen Durchmessern?",
+            "content": "<p>Absolut.</p><p>Die EASYCUT-PRO-Reihe verwendet drei Hartmetallklingen für schnelleres und saubereres Schneiden.<br/><br/>Dank dieses Designs arbeitet das Werkzeug auch bei großen Durchmessern bis zu 100 mm mühelos und effektiv.</p>"
+          }
         }
       },
       "block_order": [
@@ -715,7 +750,12 @@
         "166442457738b23caf-2",
         "item_mW3VfR",
         "item_8mpBVa",
-        "item_NKMf3k"
+        "item_NKMf3k",
+        "item_8CWpX4",
+        "item_BBa8Jr",
+        "item_9pafmX",
+        "item_DyLFmr",
+        "item_PB7MNr"
       ],
       "settings": {
         "full_width": false,

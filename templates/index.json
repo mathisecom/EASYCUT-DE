@@ -291,6 +291,7 @@
         },
         "collapsible_text_BerhFR": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
@@ -304,8 +305,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Versandinformationen",
+            "content": "<p>Heute bestellen, morgen versandt. Lieferung in 5–7 Tagen mit Sendungsverfolgung.</p>",
             "page": ""
           }
         }

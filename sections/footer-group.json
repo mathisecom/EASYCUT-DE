@@ -94,8 +94,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Kontaktieren Sie uns",
+            "content": "<p>E-Mail: <a>hello@easycutpro.com</a></p><p>Öffnungszeiten: Montag bis Freitag von 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr / Samstag und Sonntag von 10:00 bis 12:00 Uhr</p>",
             "enable_follow_on_shop": true
           }
         }

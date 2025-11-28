@@ -669,29 +669,53 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Wofür wird dieses Werkzeug genau verwendet?",
+            "content": "<p>Es ermöglicht Ihnen, eine bereits verklebte PVC-Muffe ganz einfach mit einer Bohrmaschine zu entfernen – ohne Heißluftgebläse und ohne unnötiges Brechen.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Mit welchen Rohrdurchmessern ist es kompatibel?",
+            "content": "<p>Der PVC-Entgrater ist speziell für die gängigen französischen Durchmesser entwickelt: 32, 40, 50 und 100 mm.</p><p>Er ist nur für Abflussrohre aus PVC geeignet, nicht für Druckleitungen.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Kann ich es mit jeder Bohrmaschine oder jedem Akkuschrauber verwenden?",
+            "content": "<p>Ja, es passt dank seines Sechskantschafts auf alle Standardbohrer.</p>"
+          }
+        },
+        "item_mW3VfR": {
+          "type": "item",
+          "settings": {
+            "title": "Ist es langlebig? Nutzen sich die Klingen schnell ab?",
+            "content": "<p>Das Werkzeug besteht aus hochwertigem Aluminium und ISO-zertifizierten Hartmetalleinsätzen.</p><p>Die Klingen sind langlebig und können bis zu 4-mal gedreht werden, bevor ein Austausch nötig ist.</p>"
+          }
+        },
+        "item_8mpBVa": {
+          "type": "item",
+          "settings": {
+            "title": "Ist es schwierig zu benutzen?",
+            "content": "<p>Nein, es ist ganz einfach: an die Bohrmaschine anschließen, ins Rohr einführen und arbeiten lassen.</p><p>Innerhalb weniger Sekunden wird die Muffe sauber entfernt.</p>"
+          }
+        },
+        "item_NKMf3k": {
+          "type": "item",
+          "settings": {
+            "title": "Welche Vorteile hat es im Vergleich zu einem Heißluftgebläse?",
+            "content": "<ul><li>Schneller</li></ul><p></p><ul><li>Sicherer (keine Verbrennungsgefahr oder Beschädigung des PVC)<br/></li><li>Sauberer (gleichmäßiges und kontrolliertes Ergebnis)<br/></li><li>Kein Bedarf an Verlängerungskabeln oder Hitze</li></ul>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_mW3VfR",
+        "item_8mpBVa",
+        "item_NKMf3k"
       ],
       "settings": {
         "full_width": false,

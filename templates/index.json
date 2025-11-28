@@ -57,24 +57,28 @@
         "image_gPjjwW": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_6.png",
             "url": ""
           }
         },
         "image_98HfbF": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_7.png",
             "url": ""
           }
         },
         "image_frCfkz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_8.png",
             "url": ""
           }
         },
         "image_9hGUfx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nouveau_projet_9.png",
             "url": ""
           }
         }

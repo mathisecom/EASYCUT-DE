@@ -78,6 +78,19 @@
     },
     "contact_C3HpVY": {
       "type": "contact",
+      "blocks": {
+        "text_GyBJhY": {
+          "type": "text",
+          "settings": {
+            "title": "Gewünschte Menge",
+            "use_long_text": false,
+            "required": false
+          }
+        }
+      },
+      "block_order": [
+        "text_GyBJhY"
+      ],
       "name": "Contact form",
       "settings": {
         "full_width": true,

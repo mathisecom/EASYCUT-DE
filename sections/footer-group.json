@@ -77,7 +77,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image": "shopify://shop_images/Logo_EvoKart_complet_70.pdf_8.png",
+            "image_width": 200,
             "heading_size": "h4",
             "title": "Für Neuigkeiten und persönliche Angebote anmelden",
             "content": ""

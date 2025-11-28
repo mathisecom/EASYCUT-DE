@@ -344,14 +344,14 @@
         "subheading_3acH4r": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Sie sagen es besser als wir"
           }
         },
         "heading_NVBMEg": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "3.000+ Zufriedene Kunden",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }

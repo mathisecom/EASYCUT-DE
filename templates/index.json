@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PC_QLFWOOD_3.jpg",
-            "mobile_image": "shopify://shop_images/BANNER_MOBILE_20.jpg",
+            "image": "shopify://shop_images/PC__5.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_22.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",

@@ -373,6 +373,7 @@
         "item_4Pq6nT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_13.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -385,6 +386,7 @@
         "item_pb7K8V": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_17.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -397,6 +399,7 @@
         "item_UVcGYJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_12.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -409,6 +412,33 @@
         "item_9DGT3M": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_16.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_RyxE6k": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_15.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_NRVyLM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_MOBILE_14.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -423,7 +453,9 @@
         "item_4Pq6nT",
         "item_pb7K8V",
         "item_UVcGYJ",
-        "item_9DGT3M"
+        "item_9DGT3M",
+        "item_RyxE6k",
+        "item_NRVyLM"
       ],
       "name": "Image link blocks",
       "settings": {
